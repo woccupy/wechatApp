@@ -5,7 +5,7 @@
  and wechat components etc.
 
  If you want to build up your own wechat application. All you need to do is
-follow the blow steps.
+follow the steps below .
  1, make a component.
  2, design your own status and messages.
  3, connect your component and message together.Don't forget letting your 
