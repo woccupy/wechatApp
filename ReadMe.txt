@@ -1,4 +1,4 @@
-wanglei:
+ Author: willbert
  This project is about wechat application architecture.
  Whth this code, you can easily build up your own wechat application.
  The whole architecture is consisted of message manager, state manager,
